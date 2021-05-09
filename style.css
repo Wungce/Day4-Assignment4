@@ -1,0 +1,54 @@
+*{
+
+    margin: 0px;
+}
+
+.page-wrapper{
+
+    width: 100%;
+    height: 200vh;
+    background-color: rgba(128, 128, 128, 0.39);
+}
+
+
+    
+.dr{
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+p{
+    text-align: center;
+
+}
+
+img{
+     
+    width: 70%;
+    height:63vh;
+    margin-top: 30px;
+    margin-left: 220px;
+}
+h4{
+    margin-top: 50px;
+}
+.Bio1{
+    font-size: 16px;
+    text-align: center;
+    margin-left: 50px;
+    
+
+}
+.text-center{
+    margin-top: 30px;
+    margin-left: 500px;
+
+}
+
+.contain{
+    width: 50%;
+    height: 20px;
+    margin-left: 400px;
+    margin-top: 35px;
+}
